@@ -1,0 +1,11 @@
+usermanagement system appication ကို ထွင် မှာ ဖြစ် ပါ တယ် 
+usermanagement system ဆို တဲ့ အတိုင်း ပဲ 
+user တွေ ကို management လုပ် က မှာ usermanagement လုပ် ရင် 
+user တွေ ကို create လုပ် က မယ် 
+user တွေ ကို read ရ မယ် 
+user တွေ ကို update/edit ပေး ရ မယ်
+user တွေ ကို delete လုပ် ရ မယ် 
+အဲ့ ဒါ ကို CRUD ခရက် လို့ ခေါ် တယ်
+programing လော က မှာ 
+backend ရောက် ရင် ပို သိ လိမ့် မယ် 
+data တစ် ခု ကို crud အတိုင်း လုပ် နိုင် ပြီ ဆို data တစ် ခု လုံး ကို control လုပ် နိုင် တယ် လို့ ခေါ် လို့ ရ တယ် 
